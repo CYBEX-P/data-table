@@ -1,7 +1,7 @@
 import ReactTable from 'react-table';
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
-import { data } from './test';
+import {data} from './test';
 
 const columns = [
   {
